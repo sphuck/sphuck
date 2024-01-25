@@ -21,7 +21,9 @@ I live in Amsterdam and speak a bit of Dutch. I have a partner, a mini teckel an
 CODEBLOCK GOES HERE
 ```
 
-> [!CAUTION] Be careful with adding images to files 
+> [!WARNING] 
+> Be careful with adding images to files; if you don't add the extension, the image link will not display.
+
 <!--
 <picture>
  <img alt="Sean Huck headshot" src="https://share.icloud.com/photos/0b2pRBZ3irCnyvy7kD3tfSuFQ">
