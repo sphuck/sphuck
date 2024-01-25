@@ -1,5 +1,37 @@
 ### Hi there 👋
 
+## About Me
+
+I live in Amsterdam and speak a bit of Dutch. I have a partner, a mini teckel and a cat. 
+
+<details open>
+
+  Things I like to do:
+  
+  
+| Hobbies | More info |
+|-----:|---------------|
+|     Reading| Sci-fi, Fantasy, Murder Mysteries               |
+|     Cooking| Asian, Indian, Italian             |
+|     Gaming| Alan Wake 2               |
+
+</details> 
+
+```
+CODEBLOCK GOES HERE
+```
+
+> [!CAUTION] Be careful with adding images to files 
+<!--
+<picture>
+ <img alt="Sean Huck headshot" src="https://share.icloud.com/photos/0b2pRBZ3irCnyvy7kD3tfSuFQ">
+</picture>
+
+[!WARNING] 
+
+If the URL above is not properly formatted, it will not display. 
+
+
 <!--
 **sphuck/sphuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
